@@ -1,0 +1,55 @@
+h1{
+	display: inline-block ;
+}
+
+h2{
+	display: inline-block;
+}
+
+.header{
+	height: 100px;
+	background-color:lightblue;
+}
+.container{
+overflow: hidden;
+	border:px solid blue ;
+}
+.blog{
+     display: inline-block;
+       width:60% ;
+       height: 100px;
+       background-color:red ;
+       float:left ;
+}
+.contact{
+     
+      width:40% ;
+      height: 100px;
+      background-color:green ;
+      float:right ;  
+}
+
+
+.item{
+    width: 33.33%;
+	height: 100px;
+	float: left;
+}
+.head1{
+	background-color: orange;
+}
+.head2{
+	background-color: blue;
+}
+.head3{
+	background-color: tomato;
+}
+
+
+.footer{
+
+	height:150px ;
+	background-color: black;
+
+}
+
